@@ -1,10 +1,13 @@
 _repo: Elektitaj-fabloj-de-J-de-La-Fontaine_51690
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Vaillant, G.
     gutenberg_agent_id: '46525'
     url: http://www.gutenberg.org/2009/agents/46525
+covers:
+- cover_type: archival
+  image_path: 51690-h/images/cover.jpg
 creator:
   author:
     agent_name: La Fontaine, Jean de
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1758
     wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51690#Elektitaj-fabloj-de-J-de-La-Fontaine
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2016-04-07'
 gutenberg_type: Text
